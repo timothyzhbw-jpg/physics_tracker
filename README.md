@@ -58,8 +58,8 @@ The project follows a modular **Object-Oriented Programming (OOP)** structure to
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/BowenZhang/Kinematics-CV.git](https://github.com/BowenZhang/Kinematics-CV.git)
-    cd Kinematics-CV
+    git clone [https://github.com/timothyzhbw-jpg/physics_tracker.git](https://github.com/timothyzhbw-jpg/physics_tracker.git)
+    cd physics_tracker
     ```
 2.  Install required packages:
     ```bash
