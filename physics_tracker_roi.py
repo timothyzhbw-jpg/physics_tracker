@@ -169,7 +169,8 @@ if __name__ == "__main__":
         frame = cv2.flip(frame, 1)
         processed_frame = tracker.process_frame(frame)
         cv2.imshow("Tracker", processed_frame)
-        if cv2.waitKey(1) & 0xFF == ord('q'): break
+        if cv2.waitKey(1) & 0xFF == ord('q'): 
+            break
 
     cap.release()
     cv2.destroyAllWindows()
