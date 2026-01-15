@@ -1,6 +1,8 @@
 # physics_tracker
 Real-time kinematics analysis engine utilizing Computer Vision (OpenCV) and Finite Difference methods to extract physical vectors from video feeds.
 
+![Live Demo](output.gif)
+
 # Kinematics-CV: Real-Time Physics Analysis Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
